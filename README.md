@@ -23,7 +23,7 @@ The following endpoints are available:
 | `PATCH` | `/api/Addresses/{id}`| Partially edits an existing address. |
 | `DELETE` | `/api/Addresses/{id}` | Deletes a specific address. |
 
-### Issues
+## Issues
 Overall, the development process was smooth. However, a couple of minor challenges were encountered:
 1.  **Typo in Model Name:** A minor issue was a typo in the model class name (`Adress` instead of `Address`). This caused several compilation errors throughout the controller until the inconsistency was identified and corrected across all references.
 2.  **Understanding REST API Concepts:** Before starting the implementation, some time was dedicated to researching the fundamental concepts of REST APIs, their purpose, and how HTTP methods (`GET`, `POST`, `PUT`, etc.) map to CRUD (Create, Read, Update, Delete) operations. This initial research was crucial for building the API correctly.
