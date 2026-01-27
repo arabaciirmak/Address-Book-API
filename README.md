@@ -1,5 +1,5 @@
 # Address Book REST API
-This project is a REST API application for managing an address book. It was developed as the 2nd assaignment of the "SE4458" course. The API provides endpoints to create, read, update, delete, edit and search for contacts.
+This project is a REST API application for managing an address book. The API provides endpoints to create, read, update, delete, edit and search for contacts.
 
 ## Features
 The API supports the following functionalities:
